@@ -1,5 +1,5 @@
 # StudyBuddy Django App
-Frontend : HTML, CSS, Javascript
+Frontend : HTML, CSS, Javascript/
 Backend : Django
 
 ## Steps to run the application:
