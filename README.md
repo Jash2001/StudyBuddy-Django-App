@@ -1,6 +1,7 @@
 # StudyBuddy Django App
 Frontend : HTML, CSS, Javascript\
-Backend : Django
+Backend : Django\
+Database : SQLite
 
 ## Steps to run the application:
 1. Install virtual environment using "pip install virtualenv"
