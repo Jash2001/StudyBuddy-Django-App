@@ -1,8 +1,8 @@
 # StudyBuddy Django App
 
 ## Steps to run the application:
-1. Install virtual environment using "pip install virtualenv".
-2. Create a virtual environment "virtualenv env".
+1. Install virtual environment using "pip install virtualenv"
+2. Create a virtual environment "virtualenv env"
 3. Activate the virtual environment "env/scripts/activate.ps1"
 4. Install Django using "pip install django" or "py -m pip install django"
 5. To run the server : "python manage.py runserver"
